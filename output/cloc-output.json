@@ -1,0 +1,149 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.98",
+  "elapsed_seconds"    : 6.92031097412109,
+  "n_files"            : 5949,
+  "n_lines"            : 1271296,
+  "files_per_second"   : 859.643449874815,
+  "lines_per_second"   : 183705.039376711,
+  "report_file"        : "../output/cloc-output.json"},
+"C#" :{
+  "nFiles": 3780,
+  "blank": 85389,
+  "comment": 80985,
+  "code": 395103},
+"JavaScript" :{
+  "nFiles": 306,
+  "blank": 7849,
+  "comment": 20254,
+  "code": 362311},
+"Unity-Prefab" :{
+  "nFiles": 56,
+  "blank": 0,
+  "comment": 0,
+  "code": 69539},
+"Java" :{
+  "nFiles": 1194,
+  "blank": 12162,
+  "comment": 2780,
+  "code": 66471},
+"TypeScript" :{
+  "nFiles": 433,
+  "blank": 7079,
+  "comment": 66748,
+  "code": 64860},
+"C# Generated" :{
+  "nFiles": 5,
+  "blank": 964,
+  "comment": 524,
+  "code": 11471},
+"MSBuild script" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 3,
+  "code": 3379},
+"Gradle" :{
+  "nFiles": 52,
+  "blank": 419,
+  "comment": 183,
+  "code": 2370},
+"Bourne Shell" :{
+  "nFiles": 24,
+  "blank": 340,
+  "comment": 1137,
+  "code": 1409},
+"PO File" :{
+  "nFiles": 1,
+  "blank": 456,
+  "comment": 405,
+  "code": 946},
+"Python" :{
+  "nFiles": 16,
+  "blank": 151,
+  "comment": 35,
+  "code": 821},
+"DOS Batch" :{
+  "nFiles": 20,
+  "blank": 233,
+  "comment": 21,
+  "code": 812},
+"C++" :{
+  "nFiles": 10,
+  "blank": 193,
+  "comment": 54,
+  "code": 810},
+"HLSL" :{
+  "nFiles": 5,
+  "blank": 88,
+  "comment": 26,
+  "code": 370},
+"Objective-C++" :{
+  "nFiles": 2,
+  "blank": 78,
+  "comment": 18,
+  "code": 344},
+"C/C++ Header" :{
+  "nFiles": 10,
+  "blank": 89,
+  "comment": 31,
+  "code": 341},
+"ANTLR Grammar" :{
+  "nFiles": 1,
+  "blank": 51,
+  "comment": 1,
+  "code": 251},
+"PowerShell" :{
+  "nFiles": 9,
+  "blank": 9,
+  "comment": 45,
+  "code": 198},
+"C" :{
+  "nFiles": 2,
+  "blank": 23,
+  "comment": 44,
+  "code": 138},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 128},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 69},
+"INI" :{
+  "nFiles": 4,
+  "blank": 14,
+  "comment": 0,
+  "code": 54},
+"Visual Studio Solution" :{
+  "nFiles": 3,
+  "blank": 1,
+  "comment": 3,
+  "code": 54},
+"CMake" :{
+  "nFiles": 4,
+  "blank": 11,
+  "comment": 2,
+  "code": 48},
+"Godot Scene" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 0,
+  "code": 19},
+"GLSL" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 0,
+  "code": 13},
+"Godot Resource" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 115641,
+  "comment": 173320,
+  "code": 982335,
+  "nFiles": 5949} }
