@@ -4,8 +4,11 @@
 
 C#           --> 395,103 lines
 JavaScript   --> 362,311 lines
+Java         --> 66,471 lines
 TypeScript   --> 64,860 lines
-Others       --> 160,061 lines
+C++          --> 810 lines
+C            --> 138 lines
+Others       --> 98,257 lines
 
-[ TOTAL LINES OF CODE: 982,335 ]
+[ TOTAL LINES OF CODE: 987,950 ]
 ```
