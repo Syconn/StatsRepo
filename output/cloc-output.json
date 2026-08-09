@@ -1,11 +1,11 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 10.0321891307831,
+  "elapsed_seconds"    : 11.4646098613739,
   "n_files"            : 7122,
-  "n_lines"            : 1938358,
-  "files_per_second"   : 709.91484581831,
-  "lines_per_second"   : 193213.861374711,
+  "n_lines"            : 1938613,
+  "files_per_second"   : 621.21608027807,
+  "lines_per_second"   : 169095.418286452,
   "report_file"        : "../output/cloc-output.json"},
 "JavaScript" :{
   "nFiles": 934,
@@ -19,9 +19,9 @@
   "code": 395289},
 "TypeScript" :{
   "nFiles": 731,
-  "blank": 12665,
-  "comment": 147870,
-  "code": 123448},
+  "blank": 12674,
+  "comment": 147871,
+  "code": 123601},
 "Unity-Prefab" :{
   "nFiles": 56,
   "blank": 0,
@@ -49,9 +49,9 @@
   "code": 11471},
 "CSS" :{
   "nFiles": 55,
-  "blank": 1386,
+  "blank": 1400,
   "comment": 220,
-  "code": 7783},
+  "code": 7861},
 "C++" :{
   "nFiles": 20,
   "blank": 736,
@@ -173,7 +173,7 @@
   "comment": 0,
   "code": 6},
 "SUM": {
-  "blank": 144482,
-  "comment": 294207,
-  "code": 1499669,
+  "blank": 144505,
+  "comment": 294208,
+  "code": 1499900,
   "nFiles": 7122} }
