@@ -1,11 +1,11 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 9.99628806114197,
-  "n_files"            : 7122,
-  "n_lines"            : 1938613,
-  "files_per_second"   : 712.464462452314,
-  "lines_per_second"   : 193933.286850333,
+  "elapsed_seconds"    : 10.1148180961609,
+  "n_files"            : 7147,
+  "n_lines"            : 1943788,
+  "files_per_second"   : 706.587101424263,
+  "lines_per_second"   : 192172.314076293,
   "report_file"        : "../output/cloc-output.json"},
 "JavaScript" :{
   "nFiles": 934,
@@ -18,10 +18,10 @@
   "comment": 80994,
   "code": 395289},
 "TypeScript" :{
-  "nFiles": 731,
-  "blank": 12674,
-  "comment": 147871,
-  "code": 123601},
+  "nFiles": 754,
+  "blank": 13106,
+  "comment": 147891,
+  "code": 126713},
 "Unity-Prefab" :{
   "nFiles": 56,
   "blank": 0,
@@ -48,10 +48,10 @@
   "comment": 524,
   "code": 11471},
 "CSS" :{
-  "nFiles": 55,
-  "blank": 1400,
-  "comment": 220,
-  "code": 7861},
+  "nFiles": 56,
+  "blank": 1616,
+  "comment": 227,
+  "code": 9231},
 "C++" :{
   "nFiles": 20,
   "blank": 736,
@@ -92,16 +92,16 @@
   "blank": 88,
   "comment": 26,
   "code": 370},
+"HTML" :{
+  "nFiles": 14,
+  "blank": 4,
+  "comment": 2,
+  "code": 361},
 "Objective-C++" :{
   "nFiles": 2,
   "blank": 78,
   "comment": 18,
   "code": 344},
-"HTML" :{
-  "nFiles": 13,
-  "blank": 4,
-  "comment": 2,
-  "code": 343},
 "Lisp" :{
   "nFiles": 2,
   "blank": 42,
@@ -173,7 +173,7 @@
   "comment": 0,
   "code": 6},
 "SUM": {
-  "blank": 144505,
-  "comment": 294208,
-  "code": 1499900,
-  "nFiles": 7122} }
+  "blank": 145153,
+  "comment": 294235,
+  "code": 1504400,
+  "nFiles": 7147} }
