@@ -1,11 +1,11 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
-  "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 8.27374792098999,
-  "n_files"            : 7169,
-  "n_lines"            : 1946462,
-  "files_per_second"   : 866.475516109536,
-  "lines_per_second"   : 235257.590464165,
+  "cloc_version"       : "2.06",
+  "elapsed_seconds"    : 9.65598201751709,
+  "n_files"            : 7214,
+  "n_lines"            : 1949706,
+  "files_per_second"   : 747.101639886337,
+  "lines_per_second"   : 201916.904615502,
   "report_file"        : "../output/cloc-output.json"},
 "JavaScript" :{
   "nFiles": 934,
@@ -18,10 +18,10 @@
   "comment": 80994,
   "code": 395289},
 "TypeScript" :{
-  "nFiles": 769,
+  "nFiles": 773,
   "blank": 13222,
-  "comment": 147931,
-  "code": 127604},
+  "comment": 147935,
+  "code": 127682},
 "Unity-Prefab" :{
   "nFiles": 56,
   "blank": 0,
@@ -35,8 +35,8 @@
 "Python" :{
   "nFiles": 99,
   "blank": 5067,
-  "comment": 8133,
-  "code": 26323},
+  "comment": 7571,
+  "code": 26885},
 "C/C++ Header" :{
   "nFiles": 24,
   "blank": 3060,
@@ -67,6 +67,11 @@
   "blank": 491,
   "comment": 216,
   "code": 2834},
+"USS" :{
+  "nFiles": 22,
+  "blank": 616,
+  "comment": 385,
+  "code": 1851},
 "Bourne Shell" :{
   "nFiles": 40,
   "blank": 375,
@@ -102,6 +107,11 @@
   "blank": 78,
   "comment": 18,
   "code": 344},
+"UXML" :{
+  "nFiles": 19,
+  "blank": 9,
+  "comment": 0,
+  "code": 301},
 "Lisp" :{
   "nFiles": 2,
   "blank": 42,
@@ -173,7 +183,7 @@
   "comment": 0,
   "code": 6},
 "SUM": {
-  "blank": 145540,
-  "comment": 294504,
-  "code": 1506418,
-  "nFiles": 7169} }
+  "blank": 146165,
+  "comment": 294331,
+  "code": 1509210,
+  "nFiles": 7214} }
